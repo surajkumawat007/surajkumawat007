@@ -4,4 +4,11 @@
   Your browser does not support the audio tag.
 </audio> <h1> :smiley:  Hey! Nice to see you :smiley:  </h1>
 
-<img src="https://camo.githubusercontent.com/bd28dbe28fea848509e8d45abd23916130462dc9236c3001967e61e76eab443c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" />
+
+
+I am a Full Stack Developer with a huge love for NodeJS, Vue.js, React.js, Angular Js, React Native,  Laravel, Headless Tech, API’s, Magento, Shopify, WordPress, TailwindCSS. 
+								Right now, <b>I'm open to work and employment opportunities</b>.
+
+I am the co-founder of ESTS, We provided services to more than 1000+ customers. I Actively code on Shopify, Magento  themes and apps/extensions, and  React scripts, and APIs.
+
+
