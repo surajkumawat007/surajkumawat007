@@ -18,6 +18,21 @@ I am a Full Stack Developer with a huge love for NodeJS, Vue.js, React.js, Angul
 
 I am the co-founder of ESTS, We provided services to more than 1000+ customers. I Actively code on Shopify, Magento  themes and apps/extensions, and  React scripts, and APIs.
 
+	   
+	   
+I like innovations and challenging tasks! And I am ready to support your project using my knowledge and experience.
+
+Areas of my expertise:
+	   
+:star: Development of Node JS, React JS,  Angular, Laravel, Codeigniter, React, and VueJS projects from scratch.
+:star:Extensions/Plugins development and Customization.
+:star: Integration of 3rd party Extensions/Plugins.
+:star:API Integrations.
+:star:Themes Creation and Customization.
+:star:Custom development and Minor fixes.
+:star: Upgrade and Optimization.
+:star:Database Optimization.
+
  <a href="https://join.skype.com/invite/Y3wxY5koAZob" target="_blank"><img src="https://expertcoderz.com/media/social-icon/skype-icon.png"> </a>
 
 <a href="https://www.facebook.com/ExpoundSoftTechSolutions/" target="_blank"><img src="https://expertcoderz.com/media/social-icon/facebook logo_icon.png"> </a>
