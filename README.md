@@ -16,7 +16,7 @@
 I am a Full Stack Developer with a huge love for NodeJS, Vue.js, React.js, Angular Js, React Native,  Laravel, Headless Tech, API’s, Magento, Shopify, WordPress, TailwindCSS. 
 								Right now, <b>I'm open to work and employment opportunities</b>.
 
-I am the co-founder of ESTS, We provided services to more than 1000+ customers. I Actively code on Shopify, Magento  themes and apps/extensions, and  React scripts, and APIs.
+I am the co-founder of <a href="https://www.expoundsofttechsolution.com">ESTS</a>, We provided services to more than 1000+ customers. I Actively code on Shopify, Magento  themes and apps/extensions, and  React scripts, and APIs.
 
 	   
 	   
@@ -37,6 +37,8 @@ Areas of my expertise:
 <a href="https://twitter.com/Surajkumawat/"><img src="https://surajkumawat.com/gitimg/twitter.png" width="30" height="30" ></a>
 <a href="(https://www.facebook.com/ersurajkumawat/"><img src="https://surajkumawat.com/gitimg/facebook-logo.png" width="30" height="30"></a>
 <a href="https://www.instagram.com/kumawatsuraj/"><img src="https://surajkumawat.com/gitimg/instagram.png" width="30" height="30" ></a>
+<a href=mailto:kisna.suryog007@gmail.com><img src="https://surajkumawat.com/gitimg/email.png" width="30" height="30" ></a>
+	   
    </body>
 
 </html> 
