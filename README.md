@@ -24,14 +24,14 @@ I like innovations and challenging tasks! And I am ready to support your project
 
 Areas of my expertise:
 	   
-:star: Development of Node JS, React JS,  Angular, Laravel, Codeigniter, React, and VueJS projects from scratch.
-:star:Extensions/Plugins development and Customization.
-:star: Integration of 3rd party Extensions/Plugins.
-:star:API Integrations.
-:star:Themes Creation and Customization.
-:star:Custom development and Minor fixes.
-:star: Upgrade and Optimization.
-:star:Database Optimization.
+:star: Development of Node JS, React JS,  Angular, Laravel, Codeigniter, React, and VueJS projects from scratch.<br/>
+:star:Extensions/Plugins development and Customization.<br/>
+:star: Integration of 3rd party Extensions/Plugins.<br/>
+:star:API Integrations.<br/>
+:star:Themes Creation and Customization.<br/>
+:star:Custom development and Minor fixes.<br/>
+:star: Upgrade and Optimization.<br/>
+:star:Database Optimization.<br/>
 
  <a href="https://join.skype.com/invite/Y3wxY5koAZob" target="_blank"><img src="https://expertcoderz.com/media/social-icon/skype-icon.png"> </a>
 
