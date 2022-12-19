@@ -33,12 +33,9 @@ Areas of my expertise:
 :star: Upgrade and Optimization.<br/>
 :star:Database Optimization.<br/>
 
-<ul>
-					<li><a href="https://twitter.com/Surajkumawat/"><img src="https://github.com/surajkumawat007/aboutme/blob/main/facebook-logo.png" class="icon-twitter"></i></a></li>
-					<li><a href="(https://www.facebook.com/ersurajkumawat/"><i class="icon-facebook"></i></a></li>
-					<li><a href="https://www.instagram.com/kumawatsuraj/"><i class="icon-instagram"></i></a></li>
-					
-				</ul>
+<a hr[ef="https://twitter.com/Surajkumawat/"><img src="https://surajkumawat.com/gitimg/facebook-logo.png" width="50" height="50" class="icon-twitter"></a>
+					<a href="(https://www.facebook.com/ersurajkumawat/"><img src="https://surajkumawat.com/gitimg/facebook-logo.png" width="50" height="50" class="icon-twitter"></a>
+					<a href="https://www.instagram.com/kumawatsuraj/"><img src="https://surajkumawat.com/gitimg/facebook-logo.png" width="50" height="50" class="icon-twitter"></a>
    </body>
 
 </html> 
