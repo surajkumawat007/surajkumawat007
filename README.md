@@ -1,4 +1,13 @@
- <marquee>use our <a href="https://expertcoderz.com/free-2-hours-development.html">2 hours Free Service</a></marquee>
+html>
+
+   <head>
+      <title>HTML marquee Tag</title>
+   </head>
+
+   <body>
+<marquee>use our <a href="https://expertcoderz.com/free-2-hours-development.html">2 hours Free Service</a></marquee>
+      <marquee direction = "up">The direction of text will be from bottom to top.</marquee>
+	
 
 <h1> :smiley:  Hey! Nice to see you :smiley:  </h1>
 
@@ -23,3 +32,7 @@ I am the co-founder of ESTS, We provided services to more than 1000+ customers. 
 <a href="https://t.me/expoundsofttechsolution" target="_blank"><img src="https://expertcoderz.com/media/social-icon/telegram_icon.png"> </a> 
 
 <a href="https://www.youtube.com/channel/UCKhYfAZ0hLG3tX9G8eO8Fjg" target="_blank"><img src="https://expertcoderz.com/media/social-icon/youtube_icon.png"> </a>
+
+   </body>
+
+</html> 
