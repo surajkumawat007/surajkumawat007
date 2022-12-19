@@ -1,7 +1,7 @@
 <html>
 
    <head>
-      <title>HTML marquee Tag</title>
+     
    </head>
 
    <body>
