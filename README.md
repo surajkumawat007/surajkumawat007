@@ -35,7 +35,7 @@ Areas of my expertise:
 	   <h3> You can find me here:</h3><br/>
 	   
 <a href="https://twitter.com/Surajkumawat/"><img src="https://surajkumawat.com/gitimg/twitter.png" width="30" height="30" ></a>
-<a href="(https://www.facebook.com/ersurajkumawat/"><img src="https://surajkumawat.com/gitimg/facebook-logo.png" width="30" height="30"></a>
+<a href="https://www.facebook.com/ersurajkumawat/"><img src="https://surajkumawat.com/gitimg/facebook-logo.png" width="30" height="30"></a>
 <a href="https://www.instagram.com/kumawatsuraj/"><img src="https://surajkumawat.com/gitimg/instagram.png" width="30" height="30" ></a>
 <a href=mailto:kisna.suryog007@gmail.com><img src="https://surajkumawat.com/gitimg/email.png" width="30" height="30" ></a>
 	   
