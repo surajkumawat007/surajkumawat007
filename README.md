@@ -44,10 +44,15 @@ Areas of my expertise:
 
 <a href="https://twitter.com/contactexpound" target="_blank"><img src="https://expertcoderz.com/media/social-icon/twitter.png"> </a> 
 
-<a href="https://t.me/expoundsofttechsolution" target="_blank"><img src="https://expertcoderz.com/media/social-icon/telegram_icon.png"> </a> 
+<a<img src="https://expertcoderz.com/media/social-icon/telegram_icon.png"> </a> 
 
 <a href="https://www.youtube.com/channel/UCKhYfAZ0hLG3tX9G8eO8Fjg" target="_blank"><img src="https://expertcoderz.com/media/social-icon/youtube_icon.png"> </a>
-
+<ul>
+					<li><a href="https://twitter.com/Surajkumawat/"><i class="icon-twitter"></i></a></li>
+					<li><a href="(https://www.facebook.com/ersurajkumawat/"><i class="icon-facebook"></i></a></li>
+					<li><a href="https://www.instagram.com/kumawatsuraj/"><i class="icon-instagram"></i></a></li>
+					
+				</ul>
    </body>
 
 </html> 
