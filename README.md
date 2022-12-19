@@ -1,8 +1,4 @@
- <audio controls>
-  <source src="/play story" type="audio/ogg">
-  <source src="/play story" type="audio/mpeg">
-  Your browser does not support the audio tag.
-</audio> <h1> :smiley:  Hey! Nice to see you :smiley:  </h1>
+<h1> :smiley:  Hey! Nice to see you :smiley:  </h1>
 
 
 
