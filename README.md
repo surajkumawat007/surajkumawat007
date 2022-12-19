@@ -1,12 +1,12 @@
 <html>
 
    <head>
-     
+	
    </head>
 
    <body>
 <marquee>use our <a href="https://expertcoderz.com/free-2-hours-development.html">2 hours Free Service</a></marquee>
-      <marquee direction = "up">The direction of text will be from bottom to top.</marquee>
+    
 	
 
 <h1> :smiley:  Hey! Nice to see you :smiley:  </h1>
