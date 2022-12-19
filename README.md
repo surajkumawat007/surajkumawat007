@@ -32,10 +32,10 @@ Areas of my expertise:
 :star:Custom development and Minor fixes.<br/>
 :star: Upgrade and Optimization.<br/>
 :star:Database Optimization.<br/>
-
-<a href="https://twitter.com/Surajkumawat/"><img src="https://surajkumawat.com/gitimg/twitter.png" width="50" height="50" class="icon-twitter"></a>
-					<a href="(https://www.facebook.com/ersurajkumawat/"><img src="https://surajkumawat.com/gitimg/facebook-logo.png" width="50" height="50" class="icon-twitter"></a>
-					<a href="https://www.instagram.com/kumawatsuraj/"><img src="https://surajkumawat.com/gitimg/instagram.png" width="50" height="50" class="icon-twitter"></a>
+	   <h3> You can find me here:</h3>
+<a href="https://twitter.com/Surajkumawat/"><img src="https://surajkumawat.com/gitimg/twitter.png" width="30" height="30" class="icon-twitter"></a>
+					<a href="(https://www.facebook.com/ersurajkumawat/"><img src="https://surajkumawat.com/gitimg/facebook-logo.png" width="30" height="30" class="icon-twitter"></a>
+					<a href="https://www.instagram.com/kumawatsuraj/"><img src="https://surajkumawat.com/gitimg/instagram.png" width="30" height="30" class="icon-twitter"></a>
    </body>
 
 </html> 
