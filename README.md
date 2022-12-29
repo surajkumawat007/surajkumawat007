@@ -10,7 +10,38 @@
 	
 
 <h1> :smiley:  Hey! Nice to see you :smiley:  </h1>
-
+<p><img src="https://surajkumawat.com/gitimg/Alpinejs.svg">
+          <img src="https://surajkumawat.com/gitimg/bootstap.svg">
+            <img src="https://surajkumawat.com/gitimg/Cloudflare.svg">
+            <img src="https://surajkumawat.com/gitimg/css3.svg">
+            <img src="https://surajkumawat.com/gitimg/Debian.svg">
+            <img src="https://surajkumawat.com/gitimg/Docker.svg">
+            <img src="https://surajkumawat.com/gitimg/Elementor.svg">
+            <img src="https://surajkumawat.com/gitimg/HTML5.svg">
+            <img src="https://surajkumawat.com/gitimg/javascript.svg">
+            <img src="https://surajkumawat.com/gitimg/jQery.svg">
+            <img src="https://surajkumawat.com/gitimg/Laravel.svg">
+            <img src="https://surajkumawat.com/gitimg/macOs.svg">
+            <img src="https://surajkumawat.com/gitimg/Mariadbsvg.svg">
+            <img src="https://surajkumawat.com/gitimg/Mysqlsvg.svg">
+            <img src="https://surajkumawat.com/gitimg/markdown.svg">
+            <img src="https://surajkumawat.com/gitimg/Netify.svg">
+           <img src="https://surajkumawat.com/gitimg/nodejs.svg">
+            <img src="https://surajkumawat.com/gitimg/php.svg">
+            <img src="https://surajkumawat.com/gitimg/python.svg">
+            <img src="https://surajkumawat.com/gitimg/Reactjs.svg">
+            <img src="https://surajkumawat.com/gitimg/redis.svg">
+             <img src="https://surajkumawat.com/gitimg/SqlLite.svg">
+              <img src="https://surajkumawat.com/gitimg/Tailwindcss.svg">
+               <img src="https://surajkumawat.com/gitimg/TypeScript.svg">
+                <img src="https://surajkumawat.com/gitimg/vitejs.svg">
+                 <img src="https://surajkumawat.com/gitimg/Vuejs.svg">
+                  <img src="https://surajkumawat.com/gitimg/wordpress.svg">
+                   <img src="https://surajkumawat.com/gitimg/zorinos.svg">
+                  <img src="https://surajkumawat.com/gitimg/Shopify_logo_2018.svg.png">
+                  <img src="https://surajkumawat.com/gitimg/120px-Magento.svg.png">
+                 <img src="https://surajkumawat.com/gitimg/120px-AngularJS_logo.svg.png">
+	<img src="https://surajkumawat.com/gitimg/Google-flutter-logo.svg.png"> </p>
 
 
 I am a Full Stack Developer with a huge love for NodeJS, Vue.js, React.js, Angular Js, React Native,  Laravel, Headless Tech, API’s, Magento, Shopify, WordPress, TailwindCSS. 
