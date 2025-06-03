@@ -13,9 +13,7 @@
 
 <h1> :smiley:  Hey! Nice to see you :smiley:  </h1>
 	   <p>
-		   <img src="https://camo.githubusercontent.com/502acb662569148b0f01f8bc381f01214f0905ae2fbd93d58f88faf09d10548e/68747470733a2f2f737572616a6b756d617761742e636f6d2f676974696d672f52656163746a732e737667"/>  
-
-<img src="https://camo.githubusercontent.com/d9539e6922ca89f31f5987c38367ea918248eed22a50c9cc226092000091d558/68747470733a2f2f737572616a6b756d617761742e636f6d2f676974696d672f6e6f64656a732e737667"/>
+		
 <img src="https://surajkumawat.com/gitimg/php.svg"/>  
 <img src="https://surajkumawat.com/gitimg/python.svg"/>
 <img src="https://surajkumawat.com/gitimg/TypeScript.svg"/>          
