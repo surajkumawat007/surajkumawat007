@@ -193,7 +193,7 @@ help businesses make better use of their data.
 <h2>💼 Experience</h2>
 
 <p>
-With <b>10+ years of development experience</b>, I have worked across
+With <b>15+ years of development experience</b>, I have worked across
 eCommerce, SaaS, APIs, custom web applications and business automation.
 </p>
 
