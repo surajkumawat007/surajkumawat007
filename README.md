@@ -30,7 +30,7 @@ APIs, integrations and AI-powered solutions.
 <h2>👨‍💻 About Me</h2>
 
 <p>
-I'm a <b>Full Stack Developer with 10+ years of experience</b> building
+I'm a <b>Full Stack Developer with 15+ years of experience</b> building
 production-ready web applications, eCommerce platforms, SaaS products,
 APIs and custom business solutions.
 </p>
